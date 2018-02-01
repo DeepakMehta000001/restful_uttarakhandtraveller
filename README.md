@@ -42,3 +42,7 @@ The directory structure of a generated Revel application:
 * The [API documentation](https://godoc.org/github.com/revel/revel).
 
 # restful_uttarakhandtraveller
+
+## initialise
+"export GOPATH=~/<Project_Folder>"   
+"export PATH="$PATH:$GOPATH/bin""
