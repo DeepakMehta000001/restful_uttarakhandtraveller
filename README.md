@@ -43,6 +43,3 @@ The directory structure of a generated Revel application:
 
 # restful_uttarakhandtraveller
 
-## initialise
-"export GOPATH=~/<Project_Folder>"   
-"export PATH="$PATH:$GOPATH/bin""
